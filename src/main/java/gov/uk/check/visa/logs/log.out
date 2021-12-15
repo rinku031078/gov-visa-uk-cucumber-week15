@@ -1,0 +1,32 @@
+2021-12-15 00:12:934 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-15 00:12:877 INFO  StartPage :30 - Clicking on reject cookies
+2021-12-15 00:12:114 INFO  StartPage :36 - Clicking on start now button
+2021-12-15 00:12:275 INFO  FamilyImmigrationStatusPage :27 - Selecting Australia from dropdown 
+2021-12-15 00:12:579 INFO  FamilyImmigrationStatusPage :32 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (7bee6f2f7090af3dba8211289017d4fa)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-15 00:12:656 INFO  ReasonForTravelPage :37 - Clicking on Tourism button
+2021-12-15 00:12:51 INFO  ReasonForTravelPage :42 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (7bee6f2f7090af3dba8211289017d4fa)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-15 00:12:108 INFO  ResultPage :25 - Get text from [[ChromeDriver: chrome on WINDOWS (7bee6f2f7090af3dba8211289017d4fa)] -> xpath: //div[@id='result-info']//h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2021-12-15 00:12:108 INFO  ResultPage :31 - Verifying result message: You will not need a visa to come to the UK
+2021-12-15 00:12:991 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-15 00:12:192 INFO  StartPage :30 - Clicking on reject cookies
+2021-12-15 00:12:468 INFO  StartPage :36 - Clicking on start now button
+2021-12-15 00:12:571 INFO  FamilyImmigrationStatusPage :27 - Selecting Chile from dropdown 
+2021-12-15 00:12:816 INFO  FamilyImmigrationStatusPage :32 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (13543cd1ae6039331596bb0899820670)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-15 00:12:882 INFO  ReasonForTravelPage :37 - Clicking on Work, academic visit or business button
+2021-12-15 00:12:131 INFO  ReasonForTravelPage :42 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (13543cd1ae6039331596bb0899820670)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-15 00:12:218 INFO  DurationOfStayPage :31 - Selecting more than 6 months radio button 
+2021-12-15 00:12:629 INFO  DurationOfStayPage :46 - Clicking on next step button
+2021-12-15 00:12:637 INFO  ReasonForTravelPage :25 - Clicking on :Health and care professional job
+2021-12-15 00:12:02 INFO  ReasonForTravelPage :31 - Clicking on :[[ChromeDriver: chrome on WINDOWS (13543cd1ae6039331596bb0899820670)] -> xpath: //button[normalize-space()='Continue']]
+2021-12-15 00:12:40 INFO  ResultPage :25 - Get text from [[ChromeDriver: chrome on WINDOWS (13543cd1ae6039331596bb0899820670)] -> xpath: //div[@id='result-info']//h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
+2021-12-15 00:12:40 INFO  ResultPage :31 - Verifying result message: You need a visa to work in health and care
+2021-12-15 00:12:820 INFO  ManageDriver :29 - Launching Chrome Browser
+2021-12-15 00:12:541 INFO  StartPage :30 - Clicking on reject cookies
+2021-12-15 00:12:810 INFO  StartPage :36 - Clicking on start now button
+2021-12-15 00:12:899 INFO  FamilyImmigrationStatusPage :27 - Selecting Colombia from dropdown 
+2021-12-15 00:12:128 INFO  FamilyImmigrationStatusPage :32 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (ef5a9808ce63b9cb6d5d36f4a6242d24)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-15 00:12:349 INFO  ReasonForTravelPage :37 - Clicking on Join partner or family for a long stay button
+2021-12-15 00:12:542 INFO  ReasonForTravelPage :42 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (ef5a9808ce63b9cb6d5d36f4a6242d24)] -> xpath: //button[contains(text(),'Continue')]]
+2021-12-15 00:12:644 INFO  FamilyImmigrationStatusPage :35 - Clicking on yes radio button
+2021-12-15 00:12:947 INFO  FamilyImmigrationStatusPage :48 - Clicking on continue radio button
+2021-12-15 00:12:03 INFO  ResultPage :36 - Verifying partner visa result[[ChromeDriver: chrome on WINDOWS (ef5a9808ce63b9cb6d5d36f4a6242d24)] -> xpath: //div[@id='result-info']//h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]
